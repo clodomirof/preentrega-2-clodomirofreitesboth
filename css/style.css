@@ -136,11 +136,13 @@ footer {
     background-color:#C0C0C0;
     padding: 0;
     margin: 30px;
+    width: 60%;
 }
 .btn{
     background-color: rgb(143, 156, 149);
     margin: 1px;
     padding: 5px;
+    width: 20%;
 }
 .card__descrption{    
     margin: 15px;
